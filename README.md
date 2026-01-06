@@ -6,7 +6,7 @@
 
 **Reasoning, planning, decision-making, and cognitive architectures for intelligent agents.**
 
-`agentropic-cognition` provides the "brain" of autonomous agents, implementing cognitive architectures, reasoning engines, planning algorithms, and decision-making frameworks. It enables agents to think, reason, plan, and make intelligent decisions based on their beliefs, desires, and intentions.
+`agentropic-cognition` provides the "brain" of autonomous agents, implementing cognitive architectures, reasoning engines, planning algorithms and decision-making frameworks. It enables agents to think, reason, plan and make intelligent decisions based on their beliefs, desires and intentions.
 
 ---
 
