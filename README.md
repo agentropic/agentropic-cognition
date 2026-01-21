@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This crate provides:
 
@@ -22,7 +22,7 @@ This crate provides:
 
 ---
 
-## 🧩 Core Concepts
+## Core Concepts
 
 ### BDI Architecture
 
@@ -186,7 +186,7 @@ let inferred = engine.infer()?;
 
 ---
 
-## 📦 What's Included
+## What's Included
 
 ### BDI Components
 
@@ -227,7 +227,7 @@ let inferred = engine.infer()?;
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Add to your `Cargo.toml`:
 ```toml
@@ -382,7 +382,7 @@ fn reasoning_example() -> Result<(), Box<dyn std::error::Error>> {
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Cognitive Cycle
 
@@ -409,7 +409,7 @@ The BDI reasoning cycle:
 
 ---
 
-## 🔗 Related Crates
+## Related Crates
 
 - **[agentropic-core](../agentropic-core)** - Agent primitives and traits
 - **[agentropic-messaging](../agentropic-messaging)** - Agent communication
@@ -418,7 +418,7 @@ The BDI reasoning cycle:
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 Full API documentation is available on [docs.rs](https://docs.rs/agentropic-cognition).
 
@@ -426,7 +426,7 @@ For guides and tutorials, see [agentropic-docs](https://github.com/agentropic/ag
 
 ---
 
-## 🎓 References
+## References
 
 This crate is inspired by:
 
@@ -438,13 +438,13 @@ This crate is inspired by:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please see the [contributing guidelines](../../CONTRIBUTING.md).
 
 ---
 
-## 📜 License
+## License
 
 Licensed under either of:
 
@@ -455,7 +455,7 @@ at your option.
 
 ---
 
-## 🌟 Status
+## Status
 
 **Active Development** - This crate is under active development. APIs may change before 1.0 release.
 
